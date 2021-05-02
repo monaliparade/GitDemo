@@ -9,7 +9,7 @@ public class FacebookDemo
 		// TODO Auto-generated method stub
 
           WebDriver driver= new ChromeDriver();
-          System.setProperty("webdriver.chrome.driver","E:\\Software\\chromedriver.exe");
+          System.setProperty("webdriver.chrome.driver","E:\\Software\\DriversImp\\chromedriver.exe");
 
 		
           //driver.get("https://google.com");
@@ -23,7 +23,7 @@ public class FacebookDemo
 		 driver.findElement(By.xpath("//*[@id='u_0_b']")).click();     //login button
 		 driver.findElement(By.linkText("forgotten account?")).click();
 		//System.out.println( driver.findElement(By.cssSelector("div._4rbf._53ij")).getText());
-			
+			driver.quit();
 		//driver.quit()
 		
 		

@@ -14,6 +14,10 @@ public class Stdy {
 		
 
 	}
+	public void go()
+	{
+		System.out.println("hello");
+	}
 
 
 }

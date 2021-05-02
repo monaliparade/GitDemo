@@ -8,7 +8,7 @@ public class PrchRel {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.setProperty("webdriver.chrome.driver", "E:\\Software\\driverstudy\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\Software\\DriverImp\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://google.com");
 		driver.findElement(By.xpath("//div[@class='RNNXgb']/div/div[2]/input")).sendKeys("testing");
