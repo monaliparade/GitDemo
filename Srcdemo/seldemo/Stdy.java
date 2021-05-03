@@ -14,9 +14,11 @@ public class Stdy {
 		
 
 	}
+	//added for git demo
 	public void go()
 	{
 		System.out.println("hello");
+		System.out.println("hi");
 	}
 
 

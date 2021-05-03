@@ -47,7 +47,7 @@ public class Second {
 				System.out.println(c[i][j]);
 			}
 		  }
-		  
+		  System.out.println("done");
 		  
 }
 	
