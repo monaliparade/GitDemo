@@ -7,12 +7,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Stdy {
 
-	static {
-		
-		
+	static 
+	{
 		System.out.println("hello");
-		
-
+	
 	}
 	//added for git demo
 	public void go()
