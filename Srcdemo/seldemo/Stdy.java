@@ -19,6 +19,7 @@ public class Stdy {
 	{
 		System.out.println("hello");
 		System.out.println("hi");
+		System.out.println("welcome to git branching");
 	}
 
 

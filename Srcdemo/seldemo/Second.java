@@ -49,8 +49,13 @@ public class Second {
 		  }
 		  System.out.println("done");
 		  
+		
 }
-	
+	  
+	  public void  demo()
+	  {
+		  System.out.println("welcome to branching");
+	  }
 	
 }
 
