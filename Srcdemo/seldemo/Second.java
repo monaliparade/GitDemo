@@ -47,8 +47,7 @@ public class Second {
 				System.out.println(c[i][j]);
 			}
 		  }
-		  System.out.println("done");
-		  
+		  System.out.println("done");		  
 		
 }
 	  
@@ -56,6 +55,11 @@ public class Second {
 	  {
 		  System.out.println("welcome to branching");
 	  }
+	  
+	  public void  demo1()
+	  {
+		  System.out.println("welcome to branching1");
+	  } 
 	
 }
 
